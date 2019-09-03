@@ -1,2 +1,2 @@
-# backend-omnistack8
+# tindev
 Website made during omnistack week promoted by rocketseat
